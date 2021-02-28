@@ -49,6 +49,10 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kamil-kasprzyk-digital-crafting/)
 
+### I'm also writing articles at: 
+
+[<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/digitalcrafting)
+
 [![DigitalCrafting's github stats](https://github-readme-stats.vercel.app/api?username=DigitalCrafting&theme=algolia)](https://github.com/DigitalCrafting/github-readme-stats)
 
 <!--
