@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### I'm DigitalCrafting
-- 🔭 I’m currently working on [microservices project](https://github.com/DigitalCrafting/microservices-the-one-project)
+- 🔭 I’m currently working on [eregold project](https://github.com/DigitalCrafting/eregold)
 - 🌱 I’m currently learning microservices planning on learning big data systems architecture
 - ⚡ Fun fact: I'm also learning Japanese
 
