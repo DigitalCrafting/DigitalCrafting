@@ -4,7 +4,7 @@
 
 ### I'm DigitalCrafting
 - 🔭 I’m currently working on [eregold project](https://github.com/DigitalCrafting/eregold)
-- 🌱 I’m currently learning microservices planning on learning big data systems architecture
+- 🌱 I’m currently learning React and planning on learning React Native
 - ⚡ Fun fact: I'm also learning Japanese
 
 ### 🔧 Tools & Technologies:
