@@ -4,7 +4,7 @@
 
 ### I'm DigitalCrafting
 - 🔭 I’m currently working on [eregold project](https://github.com/DigitalCrafting/eregold)
-- 🌱 I’m currently learning React and planning on learning React Native
+- 🌱 I’m currently learning about [software performance](https://www.computerenhance.com/p/table-of-contents) and how the [VM works](https://github.com/DigitalCrafting/eva-vm)
 - ⚡ Fun fact: I'm also learning Japanese
 
 ### 🔧 Tools & Technologies:
